@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... Dart and Flutter, web development and database
 - 💞️ I’m looking to collaborate on ...webdevelopment
-- 📫 How to reach me ...https://github.com/AlfredKashuru/AlfredKashuru/edit/main/README.md
+- 📫 How to reach me ...https://github.com/AlfredKashuru
 
 <!---
 AlfredKashuru/AlfredKashuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
